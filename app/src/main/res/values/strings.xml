@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">For nurs</string>
+    <string name="filter">Фильтры</string>
+    <string name="cross">cross</string>
+    <string name="transfer">Пересадки</string>
+    <string name="without_transfer">Без пересадок</string>
+    <string name="baggage">Только с багажом</string>
+    <string name="done">Готово</string>
+</resources>
